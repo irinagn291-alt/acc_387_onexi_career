@@ -1,0 +1,1 @@
+soccer,simulation,career,striker,midfielder,defender,league,training,standings,transfers,offline

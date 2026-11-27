@@ -1,0 +1,23 @@
+{
+  "updated_at_moscow": "2026-11-15T14:09:33+03:00",
+  "jobs": {
+    "phone03": {
+      "status": "queued",
+      "tests": null,
+      "shared_cache_verified": false
+    },
+    "ipad01": {
+      "status": "failed",
+      "tests": {
+        "result": "Failed",
+        "passedTests": 7,
+        "failedTests": 1,
+        "totalTestCount": 8
+      },
+      "shared_cache_verified": true,
+      "screenshots": "QA/iPad"
+    }
+  },
+  "physical_device_tested": false,
+  "new_render_snapshots_visually_reviewed": false
+}

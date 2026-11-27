@@ -1,0 +1,44 @@
+{
+  "en": {
+    "name": "Club Career",
+    "subtitle": "Build your football story",
+    "keywords": "football career,soccer career,player career game,offline,training,club,season",
+    "description": "Create a footballer. Train your strengths, play every fixture, and write your own club story.\n\nEarn 4–6 practice points each match. Spend them on focused drills to improve one skill at a time.\n\nFictional clubs, real progress. Offers open after a complete season when your record meets the next club's requirements.\n\nWin the league, score 10 goals, make 8 assists or keep 5 clean sheets in one season.\n\nEntirely offline. Free to play. Your career stays on this device.\n\nAn original, fully offline football career simulation. All players, clubs and matches are fictional. No purchases or advertising.",
+    "privacy": "Your names, careers and results stay on this device and in its private widget container. No accounts, analytics, tracking or network requests. Device backups follow your system settings."
+  },
+  "de": {
+    "name": "Club Career",
+    "subtitle": "Deine Fußballgeschichte",
+    "keywords": "Fußball,Karriere,Spieler,Training,Verein,Saison,offline",
+    "description": "Erstelle einen Fußballprofi. Trainiere, spiele und schreibe deine Vereinsgeschichte.\n\nVerdiene 4–6 Trainingspunkte pro Spiel und verbessere gezielt einzelne Fähigkeiten.\n\nFiktive Vereine, echter Fortschritt. Angebote öffnen nach einer Saison bei erfüllten Anforderungen.\n\nGewinne die Liga, erziele 10 Tore, gib 8 Vorlagen oder halte 5-mal ohne Gegentor pro Saison.\n\nKomplett offline und kostenlos. Deine Karriere bleibt auf diesem Gerät.\n\nEine eigenständige Offline-Fußballkarriere. Alle Spieler, Vereine und Spiele sind fiktiv. Ohne Käufe oder Werbung.",
+    "privacy": "Namen, Karrieren und Ergebnisse bleiben auf diesem Gerät und im privaten Widget-Container. Keine Konten, Analysen, Ortung oder Netzwerkanfragen. Backups folgen den Systemeinstellungen."
+  },
+  "pt-BR": {
+    "name": "Club Career",
+    "subtitle": "Sua história no futebol",
+    "keywords": "futebol,carreira,jogador,treino,clube,temporada,offline",
+    "description": "Crie seu jogador. Treine, dispute partidas e escreva sua história nos clubes.\n\nGanhe 4–6 pontos por partida e use-os para melhorar uma habilidade por vez.\n\nClubes fictícios, progresso real. As propostas abrem após a temporada se você cumprir os requisitos.\n\nVença a liga, marque 10 gols, dê 8 assistências ou tenha 5 jogos sem sofrer gols na temporada.\n\nTotalmente offline e grátis. Sua carreira fica neste dispositivo.\n\nSimulação original de carreira no futebol, totalmente offline. Jogadores, clubes e partidas fictícios. Sem compras ou publicidade.",
+    "privacy": "Nomes, carreiras e resultados ficam neste dispositivo e no contêiner privado dos widgets. Sem contas, análises, rastreamento ou rede. Backups seguem os ajustes do sistema."
+  },
+  "fr": {
+    "name": "Club Career",
+    "subtitle": "Votre histoire de football",
+    "keywords": "football,carrière,joueur,entraînement,club,saison,hors ligne",
+    "description": "Créez un joueur. Entraînez-vous, disputez les matchs et écrivez votre histoire.\n\nGagnez 4 à 6 points par match pour améliorer vos compétences une à une.\n\nClubs fictifs, vraie progression. Les offres arrivent après la saison si les critères sont remplis.\n\nGagnez la ligue, marquez 10 buts, faites 8 passes décisives ou 5 matchs sans encaisser en une saison.\n\nHors ligne et gratuit. Votre carrière reste sur cet appareil.\n\nSimulation originale de carrière de football hors ligne. Joueurs, clubs et matchs fictifs. Sans achats ni publicité.",
+    "privacy": "Noms, carrières et résultats restent sur cet appareil et dans le conteneur privé des widgets. Aucun compte, suivi, analyse ou requête réseau. Sauvegardes selon les réglages système."
+  },
+  "es": {
+    "name": "Club Career",
+    "subtitle": "Tu historia en el fútbol",
+    "keywords": "fútbol,carrera,jugador,entrenamiento,club,temporada,sin conexión",
+    "description": "Crea un futbolista. Entrena, juega y escribe tu historia en los clubes.\n\nGana 4–6 puntos por partido y mejora tus habilidades una a una.\n\nClubes ficticios, progreso real. Las ofertas llegan tras la temporada si cumples los requisitos.\n\nGana la liga, marca 10 goles, da 8 asistencias o acaba 5 partidos sin encajar en una temporada.\n\nSin conexión y gratis. Tu carrera se guarda en este dispositivo.\n\nSimulación original de carrera de fútbol sin conexión. Jugadores, clubes y partidos ficticios. Sin compras ni publicidad.",
+    "privacy": "Nombres, carreras y resultados se guardan en el dispositivo y el contenedor privado de widgets. Sin cuentas, análisis, rastreo ni red. Copias según ajustes del sistema."
+  },
+  "ru": {
+    "name": "Club Career",
+    "subtitle": "Твоя футбольная история",
+    "keywords": "футбол,карьера,игрок,тренировки,клуб,сезон,офлайн",
+    "description": "Создай футболиста. Развивай навыки, играй матчи и пиши свою клубную историю.\n\nМатч приносит 4–6 очков практики. Трать их на развитие отдельных навыков.\n\nВымышленные клубы и настоящий прогресс. Предложения открываются в конце сезона при выполнении требований.\n\nВыиграй лигу, забей 10 голов, отдай 8 передач или проведи 5 сухих матчей за сезон.\n\nПолностью офлайн и бесплатно. Карьера хранится на этом устройстве.\n\nАвторская офлайн-симуляция футбольной карьеры. Все игроки, клубы и матчи вымышлены. Без покупок и рекламы.",
+    "privacy": "Имена, карьеры и результаты хранятся на устройстве и в закрытом контейнере виджетов. Нет аккаунтов, аналитики, отслеживания и сетевых запросов. Резервные копии зависят от настроек системы."
+  }
+}

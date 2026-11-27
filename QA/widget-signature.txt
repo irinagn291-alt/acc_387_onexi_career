@@ -1,0 +1,2 @@
+Executable=/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/21_one_xbet/02_club_career/Build/SignedDerived/Build/Products/Develop94-iphonesimulator/CairnXI.app/PlugIns/Vista94.appex/Vista94
+warning: Specifying ':' in the path is deprecated and will not work in a future release

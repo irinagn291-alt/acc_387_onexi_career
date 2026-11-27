@@ -1,0 +1,29 @@
+{
+  "status": "waiting_for_factory_simulator_pool",
+  "pending": [
+    {
+      "tag": "ipad01",
+      "session_id": 65466,
+      "template": "4671120C-F54F-4008-A170-413F94D007D6"
+    },
+    {
+      "tag": "phone03",
+      "session_id": 43714,
+      "template": "AE9C227D-E14A-432A-A75E-3B92932BEBA2"
+    }
+  ],
+  "completed": {
+    "phone01": "6/6 passed, unsigned",
+    "phone02": "Test harness compile failure: read-only widgetFamily; fixed and compiler verified",
+    "latest_archive": "Build/ClubCareer-final-unsigned.xcarchive",
+    "test_typecheck": "passed"
+  },
+  "expected_final_tests": 8,
+  "remaining": [
+    "Wait for owned QA jobs; inspect summaries and widget cache comparison",
+    "Export friendly screenshots from attachment manifests and visually inspect all widget families and iPad landscape",
+    "Update REPORT.md with exact results and physical-device limitations",
+    "Rerun Design/audit.py and Design/package.py"
+  ],
+  "source_frozen": true
+}

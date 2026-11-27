@@ -1,0 +1,1 @@
+In version 1.2.1, you can train your soccer player, simulate matches offline, and follow your progress across seasons in the match journal and season archive.

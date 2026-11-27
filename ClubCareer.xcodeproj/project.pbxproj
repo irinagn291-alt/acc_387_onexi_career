@@ -1,0 +1,693 @@
+// !$*UTF8*$!
+{
+	classes = {
+	};
+	objectVersion = 56;
+	archiveVersion = 1;
+	objects = {
+		0C2089A64CEA48029B945016 = {
+			isa = PBXBuildFile;
+			fileRef = 41C19CE7F4B0441BB72E7416;
+		};
+		B2204D0045144AE298C4B31F = {
+			isa = PBXBuildFile;
+			fileRef = 63D6512634154D368185C7DC;
+		};
+		3911A2B7BFDD40F4AEC7D729 = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
+				CODE_SIGN_ENTITLEMENTS = ClubCareer/Cairn.entitlements;
+				MARKETING_VERSION = 1.2.1;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				CLANG_ENABLE_MODULES = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = com.clubcareer.app;
+				CURRENT_PROJECT_VERSION = 2127;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				GCC_OPTIMIZATION_LEVEL = s;
+				SUPPORTS_MACCATALYST = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				CODE_SIGN_STYLE = Automatic;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				ASSETCATALOG_COMPILER_APPICON_NAME = CairnMark;
+				SDKROOT = iphoneos;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				SWIFT_VERSION = 5.0;
+				PRODUCT_NAME = CairnXI;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.6;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				INFOPLIST_FILE = ClubCareer/Info.plist;
+				GENERATE_INFOPLIST_FILE = NO;
+			};
+			name = Deliver94;
+		};
+		47714915F1394F40B5F4F4DE = {
+			isa = PBXBuildFile;
+			fileRef = 893FFAD20E04480F848D9064;
+		};
+		10F815378AF54AAF852F3A22 = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_ENTITLEMENTS = Widgets/Vista.entitlements;
+				MARKETING_VERSION = 1.2.1;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				CLANG_ENABLE_MODULES = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = com.clubcareer.app.glance;
+				CURRENT_PROJECT_VERSION = 2127;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				GCC_OPTIMIZATION_LEVEL = s;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = " CAREER_EXTENSION";
+				SUPPORTS_MACCATALYST = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				CODE_SIGN_STYLE = Automatic;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SDKROOT = iphoneos;
+				SWIFT_VERSION = 5.0;
+				PRODUCT_NAME = Vista94;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.6;
+				APPLICATION_EXTENSION_API_ONLY = YES;
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				INFOPLIST_FILE = Widgets/Info.plist;
+				GENERATE_INFOPLIST_FILE = NO;
+			};
+			name = Deliver94;
+		};
+		B3DFEBEB15114D7E95ECE4B7 = {
+			isa = XCConfigurationList;
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Deliver94;
+			buildConfigurations = (
+				CECA105A5B6E43559FEA07E5,
+				3911A2B7BFDD40F4AEC7D729,
+			);
+		};
+		AB3561EDF0AA488DB1075848 = {
+			isa = PBXBuildFile;
+			fileRef = F6CAB0CF0C894600B3E4A8FD;
+		};
+		D61600F6A815461898AE2976 = {
+			isa = PBXGroup;
+			sourceTree = "<group>";
+			children = (
+				416FFD8800874C18A9684BE1,
+				63D6512634154D368185C7DC,
+				893FFAD20E04480F848D9064,
+				2A7A00B36A2A4CF3A86E6AF1,
+				F6CAB0CF0C894600B3E4A8FD,
+				0C269804FA65485E94193631,
+				41C19CE7F4B0441BB72E7416,
+				A9BC2ACF6EA14120AAB3E788,
+				602E924337974E3890E364F8,
+				00046E17314742E694C4BAD8,
+				39C18D98EB7E420C835EB525,
+			);
+		};
+		F7B7D6DF4E794EBDAECE1A44 = {
+			isa = PBXBuildFile;
+			fileRef = 602E924337974E3890E364F8;
+		};
+		BD7AC9FB0442412489E3697A = {
+			isa = PBXBuildFile;
+			fileRef = 00046E17314742E694C4BAD8;
+		};
+		EC4E29B5B6C2442CAF57683B = {
+			isa = PBXBuildFile;
+			fileRef = 63D6512634154D368185C7DC;
+		};
+		5FC8658BC242445D9F65FAAB = {
+			isa = PBXContainerItemProxy;
+			containerPortal = E9D10C22F4C64C75BD668E10;
+			remoteGlobalIDString = 12E8B2B51B954631A271D677;
+			remoteInfo = CairnXI;
+			proxyType = 1;
+		};
+		B552B08B82584D4192EA8EBE = {
+			isa = XCConfigurationList;
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Deliver94;
+			buildConfigurations = (
+				234CE155398247C99AE57C01,
+				3710332B63D24600BDD838BB,
+			);
+		};
+		29A7AEC3147046E6AA214914 = {
+			isa = PBXBuildFile;
+			fileRef = 0C269804FA65485E94193631;
+		};
+		86B708B9428E46E4891A8632 = {
+			isa = PBXBuildFile;
+			fileRef = 63D6512634154D368185C7DC;
+		};
+		5374E26581AF496D8A7C808C = {
+			isa = PBXBuildFile;
+			fileRef = F6CAB0CF0C894600B3E4A8FD;
+		};
+		4C99B960CF544FEB8378A44B = {
+			isa = PBXBuildFile;
+			fileRef = 41C19CE7F4B0441BB72E7416;
+		};
+		63D6512634154D368185C7DC = {
+			path = Shared/Rill.swift;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			sourceTree = "<group>";
+		};
+		00046E17314742E694C4BAD8 = {
+			path = Tests/Orbit.swift;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			sourceTree = "<group>";
+		};
+		54F93F4B35014F8284685732 = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3816F5CB2DC145E3A08320CB = {
+			isa = PBXTargetDependency;
+			target = 12E8B2B51B954631A271D677;
+			targetProxy = 5FC8658BC242445D9F65FAAB;
+		};
+		C5329A04652840B7AA30F141 = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D72F1F9F5B624280B6437ECF,
+				EC4E29B5B6C2442CAF57683B,
+				AC7F06BC1CB542249CCCD24B,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AFA942E5397147FFA2EFABCB = {
+			isa = PBXBuildFile;
+			fileRef = 416FFD8800874C18A9684BE1;
+		};
+		234CE155398247C99AE57C01 = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CURRENT_PROJECT_VERSION = 2127;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				MARKETING_VERSION = 1.2.1;
+				CLANG_ENABLE_MODULES = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				GCC_OPTIMIZATION_LEVEL = 0;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				CODE_SIGN_STYLE = Automatic;
+				SDKROOT = iphoneos;
+				SWIFT_VERSION = 5.0;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.6;
+				SUPPORTS_MACCATALYST = NO;
+			};
+			name = Develop94;
+		};
+		D8D5F8709AB34BCDB8F1F776 = {
+			path = Orbit94.xctest;
+			isa = PBXFileReference;
+			includeInIndex = 0;
+			explicitFileType = wrapper.cfbundle;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		FA2BA4599B814576A44E5B60 = {
+			isa = PBXBuildFile;
+			fileRef = 8B78782B21E346AFAB3A7F6C;
+			settings = {
+				ATTRIBUTES = (
+					RemoveHeadersOnCopy,
+				);
+			};
+		};
+		8B78782B21E346AFAB3A7F6C = {
+			path = Vista94.appex;
+			isa = PBXFileReference;
+			includeInIndex = 0;
+			explicitFileType = "wrapper.app-extension";
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		2A7A00B36A2A4CF3A86E6AF1 = {
+			path = ClubCareer/Flood.swift;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			sourceTree = "<group>";
+		};
+		893FFAD20E04480F848D9064 = {
+			path = ClubCareer/Cairn.swift;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			sourceTree = "<group>";
+		};
+		67546755723A4F329DE1F9D4 = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3F2A6F301B7C429A8DE106FC,
+				16E430E091FB4E94AC929B4F,
+				DCBCD9C9E0AE486080CBE516,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CECA105A5B6E43559FEA07E5 = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
+				CODE_SIGN_ENTITLEMENTS = ClubCareer/Cairn.entitlements;
+				MARKETING_VERSION = 1.2.1;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				CLANG_ENABLE_MODULES = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = com.clubcareer.app;
+				CURRENT_PROJECT_VERSION = 2127;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				SUPPORTS_MACCATALYST = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				CODE_SIGN_STYLE = Automatic;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				ASSETCATALOG_COMPILER_APPICON_NAME = CairnMark;
+				SDKROOT = iphoneos;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				ENABLE_TESTABILITY = YES;
+				SWIFT_VERSION = 5.0;
+				PRODUCT_NAME = CairnXI;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.6;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				INFOPLIST_FILE = ClubCareer/Info.plist;
+				GENERATE_INFOPLIST_FILE = NO;
+			};
+			name = Develop94;
+		};
+		EFE70DD4F03446AF8CCC716B = {
+			path = CairnXI.app;
+			isa = PBXFileReference;
+			includeInIndex = 0;
+			explicitFileType = wrapper.application;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		27AE4338D9D0431C8FD7D5C0 = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AFA942E5397147FFA2EFABCB,
+				B2204D0045144AE298C4B31F,
+				47714915F1394F40B5F4F4DE,
+				6E2F70EF218A46E2B24871A4,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FA65A9D659DD4DD3943AA826 = {
+			isa = PBXBuildFile;
+			fileRef = A9BC2ACF6EA14120AAB3E788;
+		};
+		F7C3EBCDAEC74F13972069F5 = {
+			productType = "com.apple.product-type.app-extension";
+			productReference = 8B78782B21E346AFAB3A7F6C;
+			buildConfigurationList = 67582002A8194BEC8A21768E;
+			productName = Vista94;
+			isa = PBXNativeTarget;
+			buildPhases = (
+				C5329A04652840B7AA30F141,
+				54F93F4B35014F8284685732,
+				67546755723A4F329DE1F9D4,
+			);
+			dependencies = (
+			);
+			name = Vista94;
+			buildRules = (
+			);
+		};
+		12E8B2B51B954631A271D677 = {
+			productType = "com.apple.product-type.application";
+			productReference = EFE70DD4F03446AF8CCC716B;
+			buildConfigurationList = B3DFEBEB15114D7E95ECE4B7;
+			productName = CairnXI;
+			isa = PBXNativeTarget;
+			buildPhases = (
+				27AE4338D9D0431C8FD7D5C0,
+				7972EA31F51A41A4ACF9C74C,
+				1E8D000C0F49438882EBB9BB,
+				478B1DF94C2D4D08B28D5EE0,
+			);
+			dependencies = (
+				1293BAA4D88C44C99DA9AFBF,
+			);
+			name = CairnXI;
+			buildRules = (
+			);
+		};
+		AC7F06BC1CB542249CCCD24B = {
+			isa = PBXBuildFile;
+			fileRef = 602E924337974E3890E364F8;
+		};
+		D72F1F9F5B624280B6437ECF = {
+			isa = PBXBuildFile;
+			fileRef = 416FFD8800874C18A9684BE1;
+		};
+		2CB8199D81E04E58949234B1 = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A2068AA392D34F8A902F9B57,
+				86B708B9428E46E4891A8632,
+				BD7AC9FB0442412489E3697A,
+				F7B7D6DF4E794EBDAECE1A44,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1293BAA4D88C44C99DA9AFBF = {
+			isa = PBXTargetDependency;
+			target = F7C3EBCDAEC74F13972069F5;
+			targetProxy = BA0BB3E90F0442658665263D;
+		};
+		FE96412128354A6CA62B5571 = {
+			productType = "com.apple.product-type.bundle.ui-testing";
+			productReference = D8D5F8709AB34BCDB8F1F776;
+			buildConfigurationList = 6E707300590F4E00AF2E77A0;
+			productName = Orbit94;
+			isa = PBXNativeTarget;
+			buildPhases = (
+				2CB8199D81E04E58949234B1,
+				437023426F1640AD9FAB6846,
+				E55C115E9CA84E8FB3B6FB3D,
+			);
+			dependencies = (
+				3816F5CB2DC145E3A08320CB,
+			);
+			name = Orbit94;
+			buildRules = (
+			);
+		};
+		6E707300590F4E00AF2E77A0 = {
+			isa = XCConfigurationList;
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Deliver94;
+			buildConfigurations = (
+				2C075BD61F7E41D6BBCAC04D,
+				78EB1F2391D04C7391CE6410,
+			);
+		};
+		602E924337974E3890E364F8 = {
+			path = Widgets/Vista.swift;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			sourceTree = "<group>";
+		};
+		F6CAB0CF0C894600B3E4A8FD = {
+			path = Shared/CareerWords.xcstrings;
+			isa = PBXFileReference;
+			lastKnownFileType = text.json.xcstrings;
+			sourceTree = "<group>";
+		};
+		B61223BB31D642E6A9334BB5 = {
+			isa = PBXBuildFile;
+			fileRef = 0C269804FA65485E94193631;
+		};
+		437023426F1640AD9FAB6846 = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3710332B63D24600BDD838BB = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CURRENT_PROJECT_VERSION = 2127;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				MARKETING_VERSION = 1.2.1;
+				CLANG_ENABLE_MODULES = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				GCC_OPTIMIZATION_LEVEL = s;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				CODE_SIGN_STYLE = Automatic;
+				SDKROOT = iphoneos;
+				SWIFT_VERSION = 5.0;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.6;
+				SUPPORTS_MACCATALYST = NO;
+			};
+			name = Deliver94;
+		};
+		E55C115E9CA84E8FB3B6FB3D = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5374E26581AF496D8A7C808C,
+				B61223BB31D642E6A9334BB5,
+				0C2089A64CEA48029B945016,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		416FFD8800874C18A9684BE1 = {
+			path = Shared/Knoll.swift;
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.swift;
+			sourceTree = "<group>";
+		};
+		41C19CE7F4B0441BB72E7416 = {
+			path = Shared/PrivacyInfo.xcprivacy;
+			isa = PBXFileReference;
+			lastKnownFileType = text.xml;
+			sourceTree = "<group>";
+		};
+		E9D10C22F4C64C75BD668E10 = {
+			buildConfigurationList = B552B08B82584D4192EA8EBE;
+			targets = (
+				12E8B2B51B954631A271D677,
+				F7C3EBCDAEC74F13972069F5,
+				FE96412128354A6CA62B5571,
+			);
+			developmentRegion = en;
+			knownRegions = (
+				en,
+				Base,
+				de,
+				"pt-BR",
+				fr,
+				es,
+				ru,
+			);
+			isa = PBXProject;
+			compatibilityVersion = "Xcode 14.0";
+			productRefGroup = 39C18D98EB7E420C835EB525;
+			projectDirPath = "";
+			attributes = {
+				BuildIndependentTargetsInParallel = YES;
+				LastUpgradeCheck = 2720;
+				ORGANIZATIONNAME = "Lumen Path Atelier 94";
+				TargetAttributes = {
+					F7C3EBCDAEC74F13972069F5 = {
+						SystemCapabilities = {
+							com.apple.ApplicationGroups.iOS = {
+								enabled = 1;
+							};
+						};
+					};
+					12E8B2B51B954631A271D677 = {
+						SystemCapabilities = {
+							com.apple.Push = {
+								enabled = 1;
+							};
+							com.apple.ApplicationGroups.iOS = {
+								enabled = 1;
+							};
+						};
+					};
+				};
+			};
+			hasScannedForEncodings = 0;
+			projectRoot = "";
+			mainGroup = D61600F6A815461898AE2976;
+		};
+		64035DF6FCE546B181D39274 = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_ENTITLEMENTS = Widgets/Vista.entitlements;
+				MARKETING_VERSION = 1.2.1;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				CLANG_ENABLE_MODULES = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = com.clubcareer.app.glance;
+				CURRENT_PROJECT_VERSION = 2127;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG CAREER_EXTENSION";
+				GCC_OPTIMIZATION_LEVEL = 0;
+				SUPPORTS_MACCATALYST = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				CODE_SIGN_STYLE = Automatic;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				ENABLE_TESTABILITY = YES;
+				SDKROOT = iphoneos;
+				SWIFT_VERSION = 5.0;
+				PRODUCT_NAME = Vista94;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.6;
+				APPLICATION_EXTENSION_API_ONLY = YES;
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				INFOPLIST_FILE = Widgets/Info.plist;
+				GENERATE_INFOPLIST_FILE = NO;
+			};
+			name = Develop94;
+		};
+		A2068AA392D34F8A902F9B57 = {
+			isa = PBXBuildFile;
+			fileRef = 416FFD8800874C18A9684BE1;
+		};
+		478B1DF94C2D4D08B28D5EE0 = {
+			buildActionMask = 2147483647;
+			dstSubfolderSpec = 13;
+			isa = PBXCopyFilesBuildPhase;
+			runOnlyForDeploymentPostprocessing = 0;
+			dstPath = "";
+			name = "Embed Career Glance";
+			files = (
+				FA2BA4599B814576A44E5B60,
+			);
+		};
+		2C075BD61F7E41D6BBCAC04D = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				MARKETING_VERSION = 1.2.1;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				CLANG_ENABLE_MODULES = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = com.clubcareer.app.orbit;
+				CURRENT_PROJECT_VERSION = 2127;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG CAREER_CHECKS";
+				TEST_TARGET_NAME = CairnXI;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				CODE_SIGN_STYLE = Automatic;
+				SUPPORTS_MACCATALYST = NO;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				ENABLE_TESTABILITY = YES;
+				SDKROOT = iphoneos;
+				SWIFT_VERSION = 5.0;
+				PRODUCT_NAME = Orbit94;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.6;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				GENERATE_INFOPLIST_FILE = YES;
+			};
+			name = Develop94;
+		};
+		1E8D000C0F49438882EBB9BB = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AB3561EDF0AA488DB1075848,
+				29A7AEC3147046E6AA214914,
+				4C99B960CF544FEB8378A44B,
+				FA65A9D659DD4DD3943AA826,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DCBCD9C9E0AE486080CBE516 = {
+			isa = PBXBuildFile;
+			fileRef = 41C19CE7F4B0441BB72E7416;
+		};
+		3F2A6F301B7C429A8DE106FC = {
+			isa = PBXBuildFile;
+			fileRef = F6CAB0CF0C894600B3E4A8FD;
+		};
+		78EB1F2391D04C7391CE6410 = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				MARKETING_VERSION = 1.2.1;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				CLANG_ENABLE_MODULES = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = com.clubcareer.app.orbit;
+				CURRENT_PROJECT_VERSION = 2127;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				TEST_TARGET_NAME = CairnXI;
+				GCC_OPTIMIZATION_LEVEL = s;
+				SUPPORTS_MACCATALYST = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				CODE_SIGN_STYLE = Automatic;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SDKROOT = iphoneos;
+				SWIFT_VERSION = 5.0;
+				PRODUCT_NAME = Orbit94;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.6;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				GENERATE_INFOPLIST_FILE = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = " CAREER_CHECKS";
+			};
+			name = Deliver94;
+		};
+		16E430E091FB4E94AC929B4F = {
+			isa = PBXBuildFile;
+			fileRef = 0C269804FA65485E94193631;
+		};
+		6E2F70EF218A46E2B24871A4 = {
+			isa = PBXBuildFile;
+			fileRef = 2A7A00B36A2A4CF3A86E6AF1;
+		};
+		7972EA31F51A41A4ACF9C74C = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		67582002A8194BEC8A21768E = {
+			isa = XCConfigurationList;
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Deliver94;
+			buildConfigurations = (
+				64035DF6FCE546B181D39274,
+				10F815378AF54AAF852F3A22,
+			);
+		};
+		39C18D98EB7E420C835EB525 = {
+			isa = PBXGroup;
+			name = Products;
+			children = (
+				EFE70DD4F03446AF8CCC716B,
+				8B78782B21E346AFAB3A7F6C,
+				D8D5F8709AB34BCDB8F1F776,
+			);
+			sourceTree = "<group>";
+		};
+		BA0BB3E90F0442658665263D = {
+			isa = PBXContainerItemProxy;
+			containerPortal = E9D10C22F4C64C75BD668E10;
+			remoteGlobalIDString = F7C3EBCDAEC74F13972069F5;
+			remoteInfo = Vista94;
+			proxyType = 1;
+		};
+		A9BC2ACF6EA14120AAB3E788 = {
+			path = ClubCareer/Assets.xcassets;
+			isa = PBXFileReference;
+			lastKnownFileType = folder.assetcatalog;
+			sourceTree = "<group>";
+		};
+		0C269804FA65485E94193631 = {
+			path = Shared/InfoPlist.xcstrings;
+			isa = PBXFileReference;
+			lastKnownFileType = text.json.xcstrings;
+			sourceTree = "<group>";
+		};
+	};
+	rootObject = E9D10C22F4C64C75BD668E10;
+}

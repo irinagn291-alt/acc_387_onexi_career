@@ -1,0 +1,7 @@
+Build/
+QA/*.xcresult/
+QA/*-attachments/
+QA/*.log
+**/xcuserdata/
+.DS_Store
+__pycache__/

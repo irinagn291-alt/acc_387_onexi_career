@@ -1,0 +1,23 @@
+12:10:42.002 xcodebuild[77067:5880376] Sim GF isolated manual-qa 8f3b74acff9f405d81461590c63d5efd iPhone 18 Pro: Unregistering for sim device notification with token 3
+12:10:42.003 xcodebuild[77067:5880376] Calling -[SimDevice getenv:error:] for TESTMANAGERD_SIM_SOCK
+12:10:42.004 xcodebuild[77067:5880376] Sim GF isolated manual-qa 8f3b74acff9f405d81461590c63d5efd iPhone 18 Pro has testmanagerd socket at /private/var/tmp/com.apple.launchd.tk05ruoMUl/com.apple.testmanagerd.unix-domain.socket
+12:10:42.004 xcodebuild[77067:5880376] Validating test connection socket path (/private/var/tmp/com.apple.launchd.tk05ruoMUl/com.apple.testmanagerd.unix-domain.socket)
+12:10:42.004 xcodebuild[77067:5880376] Constructing transport for test connection socket
+12:10:42.004 xcodebuild[77067:5880376] Connected socket 27 to testmanagerd for Sim GF isolated manual-qa 8f3b74acff9f405d81461590c63d5efd iPhone 18 Pro
+12:10:42.005 xcodebuild[77067:5880376] Initiating control session with IDE capabilities: <XCTCapabilities: 0x779e669a70>: {
+    "report crashes capability" = 3;
+}
+12:10:43.454 xcodebuild[77067:5879757] Got reply to control session initiation request (result:error): <XCTCapabilities: 0x779e669da0>: {
+    "authorize test session capability" = 1;
+    "automation mode" = 1;
+    "initiate daemon control session capability" = 4;
+    "initiate test runner session capability" = 2;
+    "record UI interaction capability" = 2;
+    "recording events as source code" = 1;
+    "request log archive capability" = 1;
+    "structured results configuration" = 1;
+    "supports delayed attachment transfers" = 1;
+}: (null)
+12:10:43.455 xcodebuild[77067:5879757] Requesting crash report collection for process names: Vista94, runningboardd, CairnXI, debugserver, Orbit94-Runner, backboardd, assertiond, xctest, FrontBoard, SpringBoard, testmanagerd, DTServiceHub
+12:11:01.217 xcodebuild[77067:5880363] Requesting authorization for pid 77889
+12:11:01.218 xcodebuild[77067:5880363] Got reply to authorization request for pid 77889 (result:error): 1: (null)

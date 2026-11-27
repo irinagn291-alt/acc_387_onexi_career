@@ -1,0 +1,31 @@
+{
+  "source_swift_files": 6,
+  "project_object_ids": 67,
+  "other_projects_checked": 83,
+  "uuid_collisions": [],
+  "bundle_identifiers": [
+    "app.lumenpath.career.ember94",
+    "app.lumenpath.career.ember94.glance",
+    "app.lumenpath.career.ember94.orbit"
+  ],
+  "bundle_identifier_conflicts": [],
+  "localized_keys": 173,
+  "locales": [
+    "en",
+    "de",
+    "pt-BR",
+    "fr",
+    "es",
+    "ru"
+  ],
+  "format_specifiers_consistent": true,
+  "machine_paths_in_source": false,
+  "source_hashes": {
+    "ClubCareer/Flood.swift": "c0fe86a315f8d9b928add0b6cda09708cdbf6142a1913992dafb1163fdd6be52",
+    "ClubCareer/Cairn.swift": "517a6448fd7efa7d96d8e25fd05ba8180402d46b69929aea3ef242c4a84d19e2",
+    "Shared/Rill.swift": "86a0397e29004c5c6b2fd68e97f52a731c3813ddd5119c6cbaa503d9c0de669f",
+    "Shared/Knoll.swift": "43e86163672a274aec3415a61fad8ced552f2252c1a818578d297a264f739d48",
+    "Widgets/Vista.swift": "6ed7f31bec18f986360a6a21eccae4a44286a0b3cd4008665ab660e5f12db73e",
+    "Tests/Orbit.swift": "12d4e1e4c4996d9c2eaa797203ed926903814f4c0f2c70013929367cbba06018"
+  }
+}

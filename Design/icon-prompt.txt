@@ -1,0 +1,5 @@
+Tool: built-in imagegen
+
+Use case: logo-brand. Asset type: iOS app icon, opaque square 1024x1024, the operating system applies corner mask. Primary request: footballer silhouette rising along a path of stadium lights, navy blue career mode style. An original elegant white and icy-blue silhouette of a footballer dribbling a ball, ascending a diagonal luminous stadium walkway, distant floodlights, dark navy #071428, royal blue #11408F, electric blue #4DA6FF. Bold simple readable shapes at small size, premium sports editorial aesthetic, no text, no letters, no numbers, no logo, no trademark shapes, no border, no surrounding mockup, fill the entire canvas.
+
+Result: opaque raster original retained; resized to 1024 square with sips. Visually inspected for palette and branding.
