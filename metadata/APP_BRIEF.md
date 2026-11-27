@@ -1,4 +1,4 @@
-<!-- gf-brief source=30ce082e587bcf9269aa0389fa721870e7e9ac471b79a108eb1333992015da75 written=2026-11-27T14:57:39+03:00 -->
+<!-- gf-brief source=30ce082e587bcf9269aa0389fa721870e7e9ac471b79a108eb1333992015da75 written=2026-11-27T15:01:49+03:00 -->
 # OneXI Career
 
 ## What it is
